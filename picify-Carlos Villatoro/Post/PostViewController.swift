@@ -218,6 +218,8 @@ extension PostViewController: UIImagePickerControllerDelegate, UINavigationContr
 
         // Set image to use when saving post
         pickedImage = image
+        
+        //a
        
     }
 
