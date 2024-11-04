@@ -1,4 +1,4 @@
-# Project 6 - *Picify*
+# Project 6 - *Picify part 2*
 
 Submitted by: **Carlos Villatoro**
 
